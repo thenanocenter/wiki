@@ -60,9 +60,11 @@ class NanoCenterTemplate extends BaseTemplate {
 					)
 				) .
 				Html::rawElement( 'div', [ 'id' => 'mw-related-navigation' ],
-					$this->getPageToolSidebar() .
+                    $userLinks['html'] .
+                    $this->getPageToolSidebar() .
 					$this->getInterlanguageLinks() .
 					$this->getCategories()
+
 				) .
 				Html::rawElement( 'div', [ 'id' => 'mw-content' ],
 					Html::rawElement( 'div', [ 'id' => 'content', 'class' => 'mw-body',  'role' => 'main' ],

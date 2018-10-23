@@ -153,6 +153,27 @@ body{
     color: #003143 !important;
 }
 
+#user-tools{
+    width: 100%;
+    float: none;
+    margin:0px;
+    padding:20px 0px 10px 0px;
+    border-bottom: solid 1px #D8E3FF;
+}
+
+#user-tools #personal{
+    margin:0px;
+    padding:20px 0px 0px 0px;
+}
+
+#user-tools #personal h2{
+    color: #999999 !important;
+    font-family: "Mukta", sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 19px !important;
+}
+
 /* Body */
 
 #mw-content-container{
