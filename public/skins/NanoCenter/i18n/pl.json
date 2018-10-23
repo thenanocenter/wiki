@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"The Polish",
+			"Rzuwig",
+			"Railfail536"
+		]
+	},
+	"nanocenter-desc": "Skórka Timeless, zaprojektowana pierwotnie przez Brandona Harrisa, zawiera również elementy autorstwa Fundacji Wikimedia",
+	"nanocenter-search-placeholder": "Szukaj w {{NUMBEROFARTICLES}} stronach",
+	"nanocenter-loggedin": "Twoje konto",
+	"nanocenter-anonymous": "Anonimowy",
+	"nanocenter-loggedinas": "Zalogowano jako '''$1'''",
+	"nanocenter-notloggedin": "Niezalogowany",
+	"nanocenter-userpage": "Strona {{GENDER:$1|użytkownika|użytkowniczki}}",
+	"nanocenter-talkpage": "Dyskusja {{GENDER:$1|użytkownika|użytkowniczki}}",
+	"nanocenter-pagelog": "Dzienniki stron",
+	"nanocenter-more": "Więcej",
+	"nanocenter-sitetools": "Narzędzia Wiki",
+	"nanocenter-pageactions": "Narzędzia dla stron",
+	"nanocenter-userpagetools": "Narzędzia strony użytkownika",
+	"nanocenter-pagemisc": "Więcej",
+	"nanocenter-namespaces": "Przestrzenie nazw",
+	"nanocenter-pagetools": "Działania na stronie",
+	"nanocenter-languages": "Języki",
+	"nanocenter.js": "/* Umieszczony tutaj kod JavaScript zostanie załadowany wyłącznie przez użytkowników korzystających ze skórki Timeless */"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"nanocenter-desc": "En Bedehnbovverfläsch „Ziggloßß“ en Aanlehnong an et Moster „Winter“ vum <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Brandon Harris\">Brandon Harris</i> un divärse Stihle, wi se en der Wikkimehdija Schtefftong jängesch sin.",
+	"nanocenter-search-placeholder": "Söhk en onjefähr {{NUMBEROFARTICLES}} Sigge",
+	"nanocenter-loggedin": "Ding Aanmeldung",
+	"nanocenter-anonymous": "Nahmelohse Metmaacher",
+	"nanocenter-loggedinas": "Ennjelogg als '''$1'''",
+	"nanocenter-notloggedin": "Nit ennjelogg",
+	"nanocenter-userpage": "{{GENDER:$1|Metmaacher|Metmaacherėnne|Metmaacher|Metmaacherėnne|Metmaacher}}sigg",
+	"nanocenter-talkpage": "{{GENDER:$1|Metmaacher|Metmaacherėnne|Metmaacher|Metmaacherėnne|Metmaacher}}klaafsigg",
+	"nanocenter-pagelog": "Logböhscher övver Sigge",
+	"nanocenter-more": "Mih",
+	"nanocenter-sitetools": "Wärkzüsch vum Wikki",
+	"nanocenter-pageactions": "Werrekzüch för Sigge",
+	"nanocenter-userpagetools": "Wärkzüsch vun de Metmaachersigg",
+	"nanocenter-pagemisc": "Mih",
+	"nanocenter-namespaces": "Appachtemangs",
+	"nanocenter-pagetools": "Axjhune för Sigge",
+	"nanocenter-languages": "Schprohche"
+}

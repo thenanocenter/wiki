@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"nanocenter-desc": "En zäitlosen Interface, designt nom Wanter-Prototyp vum Brandon Harris an no verschiddene Stiler vun der Wikimedai Foundation.",
+	"nanocenter-search-placeholder": "An {{NUMBEROFARTICLES}} Säite sichen",
+	"nanocenter-loggedin": "Äre Benotzerkont",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Als '''$1''' ageloggt",
+	"nanocenter-notloggedin": "Net ageloggt",
+	"nanocenter-userpage": "{{GENDER:$1|Benotzer}}säit",
+	"nanocenter-talkpage": "{{GENDER:$1|Benotzer}} Diskussioun",
+	"nanocenter-pagelog": "Logbicher fir Säiten",
+	"nanocenter-more": "Méi",
+	"nanocenter-sitetools": "Wiki-Handwierksgeschir",
+	"nanocenter-pageactions": "Handwierksgeschir fir Säiten",
+	"nanocenter-userpagetools": "Handwierksgeschir fir Benotzersäiten",
+	"nanocenter-pagemisc": "Méi",
+	"nanocenter-namespaces": "Nummraim",
+	"nanocenter-pagetools": "Säitenaktiounen",
+	"nanocenter-languages": "Sproochen"
+}

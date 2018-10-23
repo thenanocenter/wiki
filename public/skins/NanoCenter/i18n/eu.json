@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi",
+			"An13sa",
+			"Sator",
+			"Mikel Ibaiba"
+		]
+	},
+	"nanocenter-desc": "Brandon Harris-en Winter prototipoaren ondoren diseinatutako larrua, epemugarik gabea eta Wikimedia Fundazioaren hainbat estilo",
+	"nanocenter-search-placeholder": "{{NUMBEROFARTICLES}} orriak bilatu",
+	"nanocenter-loggedin": "Zure kontua",
+	"nanocenter-anonymous": "Anonimoa",
+	"nanocenter-loggedinas": "'''$1''' bezala saioa hasita",
+	"nanocenter-notloggedin": "saioa hasi gabe",
+	"nanocenter-userpage": "{{GENDER:$1|Erabiltzaile}} orria",
+	"nanocenter-talkpage": "{{GENDER:$1|Erabiltzaile}} eztabaida",
+	"nanocenter-pagelog": "Orriaren erregistroak",
+	"nanocenter-more": "Gehiago",
+	"nanocenter-sitetools": "Wiki-tresnak",
+	"nanocenter-pageactions": "Orrialde tresnak",
+	"nanocenter-userpagetools": "Lankide orrialdeko tresnak",
+	"nanocenter-pagemisc": "Gehiago",
+	"nanocenter-namespaces": "Izen-tarteak",
+	"nanocenter-pagetools": "Orriaren aukerak",
+	"nanocenter-languages": "Hizkuntzak"
+}

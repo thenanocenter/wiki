@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ай-Куо",
+			"HalanTul"
+		]
+	},
+	"nanocenter-desc": " Timeless оҥоруу тиэмэтэ   Брэндон Харрис Winter-ын уонна  Викимедиа фондун араас истииллэрин прототипыттан оҥоһуллубут",
+	"nanocenter-loggedin": "Бэлиэтэммит аатыҥ",
+	"nanocenter-anonymous": "Аатын эппэтэх киһи",
+	"nanocenter-loggedinas": "Маннык аатынан киирбиккин: '''$1'''",
+	"nanocenter-notloggedin": "Ааккын эппэтэххин",
+	"nanocenter-userpage": " {{GENDER:$1|Кыттааччы}} тус сирэйэ",
+	"nanocenter-talkpage": " {{GENDER:$1|Кыттааччы}} ырытыыта",
+	"nanocenter-pagelog": "Сирэй сурунааллара",
+	"nanocenter-more": "Эбии",
+	"nanocenter-sitetools": "Биики-тэрил",
+	"nanocenter-pageactions": "Сирэй тэриллэрэ",
+	"nanocenter-userpagetools": "кыттааччы сирэйин үнүстүрүмүөннэрэ",
+	"nanocenter-pagemisc": "Эбии",
+	"nanocenter-namespaces": "Аат дала",
+	"nanocenter-pagetools": "сирэй дьайыылара",
+	"nanocenter-languages": "Тыллар"
+}

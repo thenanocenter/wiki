@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"nanocenter-desc": "Un apparentia sin etate, concipite secundo le prototypo Winter de Braindon Harris e varie stilos del Fundation Wikimedia.",
+	"nanocenter-search-placeholder": "Cercar in circa {{NUMBEROFARTICLES}} paginas",
+	"nanocenter-loggedin": "Tu conto",
+	"nanocenter-anonymous": "Anonyme",
+	"nanocenter-loggedinas": "Usator in session: '''$1'''",
+	"nanocenter-notloggedin": "Sin session",
+	"nanocenter-userpage": "Pagina de {{GENDER:$1|usator}}",
+	"nanocenter-talkpage": "Discussion de {{GENDER:$1|usator}}",
+	"nanocenter-pagelog": "Registros de pagina",
+	"nanocenter-more": "Plus",
+	"nanocenter-sitetools": "Instrumentos wiki",
+	"nanocenter-pageactions": "Instrumentos pro paginas",
+	"nanocenter-userpagetools": "Instrumentos pro paginas de usator",
+	"nanocenter-pagemisc": "Plus",
+	"nanocenter-namespaces": "Spatios de nomines",
+	"nanocenter-pagetools": "Actiones de pagina",
+	"nanocenter-languages": "Linguas"
+}

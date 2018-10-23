@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bodhisattwa",
+			"আজিজ",
+			"Aftabuzzaman"
+		]
+	},
+	"skinname-nanocenter": "টাইমলেস",
+	"nanocenter-search-placeholder": "{{NUMBEROFARTICLES}}টি পাতায় অনুসন্ধান করুন",
+	"nanocenter-loggedin": "আপনার অ্যাকাউন্ট",
+	"nanocenter-anonymous": "নামহীন",
+	"nanocenter-loggedinas": "'''$1''' হিসাবে প্রবেশ",
+	"nanocenter-notloggedin": "প্রবেশ করেন নি",
+	"nanocenter-userpage": "{{GENDER:$1|ব্যবহারকারী}} পাতা",
+	"nanocenter-talkpage": "{{GENDER:$1|ব্যবহারকারী}} আলাপ",
+	"nanocenter-pagelog": "পৃষ্ঠার লগসমূহ",
+	"nanocenter-more": "আরও",
+	"nanocenter-sitetools": "উইকি সরঞ্জামসমূহ",
+	"nanocenter-pageactions": "পাতার সরঞ্জামসমূহ",
+	"nanocenter-userpagetools": "ব্যবহারকারীর পাতার সরঞ্জামসমূহ",
+	"nanocenter-pagemisc": "আরও",
+	"nanocenter-namespaces": "নামস্থানসমূহ",
+	"nanocenter-pagetools": "পৃষ্ঠার ক্রিয়া",
+	"nanocenter-languages": "ভাষাসমূহ",
+	"nanocenter.js": "/* এখানের যে কোন জাভাস্ক্রিপ্ট টাইমলেস আবরণ ব্যবহারকারীদের জন্য লোড হবে */"
+}

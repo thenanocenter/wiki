@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sagan"
+		]
+	},
+	"nanocenter-desc": "Timeless биҙәлеше Брэндон Харрисның Winter прототипыннҙан һәм Викимедия Фондының башҡа төр стилдәренән  яһалған.",
+	"nanocenter-search-placeholder": "Текста яҡынса {{NUMBEROFARTICLES}} бит эсендә эҙләү",
+	"nanocenter-loggedin": "Иҫәп яҙмаһы",
+	"nanocenter-anonymous": "Танытмаған",
+	"nanocenter-loggedinas": "'''$1''' булып танылған",
+	"nanocenter-notloggedin": "Танылмағанһығыҙ",
+	"nanocenter-userpage": "{{GENDER:$1|Ҡатнашыусы}} бите",
+	"nanocenter-talkpage": "{{GENDER:$1|Ҡатнашыусы}} менән фекер алышыу",
+	"nanocenter-pagelog": "Бит журналы",
+	"nanocenter-more": "Тағы",
+	"nanocenter-sitetools": "Вики-инструменттар",
+	"nanocenter-pageactions": "Бит өсөн инструмент",
+	"nanocenter-userpagetools": "Ҡатнашыусы бите инструменты",
+	"nanocenter-pagemisc": "Тағы",
+	"nanocenter-namespaces": "Исем арауыҡтары",
+	"nanocenter-pagetools": "Биттәге ғәмәлдәр",
+	"nanocenter-languages": "Телдәр"
+}

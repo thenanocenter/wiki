@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"nanocenter-desc": "Timeless бизәлеше Брэндон Харрисның Winter прототипыннан һәм Викимедия Фондының башка төр стильләреннән чыгып ясалган.",
+	"nanocenter-search-placeholder": "Якынча {{NUMBEROFARTICLES}} бит аша эзләү",
+	"nanocenter-loggedin": "Хисап язмасы",
+	"nanocenter-anonymous": "Аноним",
+	"nanocenter-loggedinas": "'''$1''' булып кергән",
+	"nanocenter-notloggedin": "Сез хисап язмагызга кермәгәнсез",
+	"nanocenter-userpage": "{{GENDER:$1|Кулланучы}} бите",
+	"nanocenter-talkpage": "{{GENDER:$1|Кулланучы}} бәхәсе",
+	"nanocenter-pagelog": "Бит көндәлекләре",
+	"nanocenter-more": "Тагын",
+	"nanocenter-sitetools": "Вики-кораллар",
+	"nanocenter-pageactions": "Бит очен кораллар",
+	"nanocenter-userpagetools": "Кулланучы бите кораллары",
+	"nanocenter-pagemisc": "Тагын",
+	"nanocenter-namespaces": "Исемнәр мәйданы",
+	"nanocenter-pagetools": "Биттәге гамәлләр",
+	"nanocenter-languages": "Телләр"
+}

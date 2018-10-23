@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Vitorvicentevalente",
+			"Hamilton Abreu",
+			"MokaAkashiyaPT",
+			"Athena in Wonderland"
+		]
+	},
+	"nanocenter-desc": "Um tema intemporal, desenhado com base no protótipo Winter de Brandon Harris e em vários estilos da Wikimedia Foundation",
+	"nanocenter-search-placeholder": "Pesquisar em {{NUMBEROFARTICLES}} páginas",
+	"nanocenter-loggedin": "A sua conta",
+	"nanocenter-anonymous": "Anónimo",
+	"nanocenter-loggedinas": "Autenticado como '''$1'''",
+	"nanocenter-notloggedin": "Não autenticado",
+	"nanocenter-userpage": "Página {{GENDER:$1|do utilizador|da utilizadora|de utilizador}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Utilizador|Utilizadora|Utilizador(a)}} Discussão",
+	"nanocenter-pagelog": "Registos da página",
+	"nanocenter-more": "Mais",
+	"nanocenter-sitetools": "Ferramentas da wiki",
+	"nanocenter-pageactions": "Ferramentas de página",
+	"nanocenter-userpagetools": "Ferramentas da página de utilizador",
+	"nanocenter-pagemisc": "Mais",
+	"nanocenter-namespaces": "Espaços nominais",
+	"nanocenter-pagetools": "Ações de página",
+	"nanocenter-languages": "Idiomas",
+	"nanocenter.js": "/* Qualquer código JavaScript colocado aqui será carregado para os utilizadores do tema Timeless */"
+}

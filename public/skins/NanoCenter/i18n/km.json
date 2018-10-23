@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"nanocenter-search-placeholder": "ស្វែងរកក្នុងទំព័រចំនួន {{NUMBEROFARTICLES}}",
+	"nanocenter-loggedin": "គណនីរបស់អ្នក",
+	"nanocenter-anonymous": "អនាមិក",
+	"nanocenter-loggedinas": "កំពុងកត់ឈ្មោះចូលជា​ '''$1'''",
+	"nanocenter-notloggedin": "មិនទាន់កត់ឈ្មោះចូលទេ",
+	"nanocenter-userpage": "ទំព័រ{{GENDER:$1|អ្នកប្រើប្រាស់}}",
+	"nanocenter-talkpage": "{{GENDER:$1|ការពិភាក្សា}}",
+	"nanocenter-pagelog": "កំណត់ត្រាទំព័រ",
+	"nanocenter-more": "ផ្សេងទៀត",
+	"nanocenter-sitetools": "ឧបករណ៍វិគី",
+	"nanocenter-pageactions": "ឧបករណ៍ទំព័រ",
+	"nanocenter-userpagetools": "ឧបករណ៍ទំព័រអ្នកប្រើប្រាស់",
+	"nanocenter-pagemisc": "ផ្សេងទៀត",
+	"nanocenter-namespaces": "លំហឈ្មោះ",
+	"nanocenter-pagetools": "អំពើធ្វើលើទំព័រ",
+	"nanocenter-languages": "ភាសា"
+}

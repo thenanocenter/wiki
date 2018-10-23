@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"V.narsikar"
+		]
+	},
+	"nanocenter-loggedin": "आपले खाते",
+	"nanocenter-anonymous": "अनामिक",
+	"nanocenter-loggedinas": "'''$1''' म्हणून सनोंद प्रवेशित",
+	"nanocenter-notloggedin": "सनोंद-प्रवेशित नाही",
+	"nanocenter-userpage": "सदस्य पान",
+	"nanocenter-talkpage": "सदस्य चर्चा",
+	"nanocenter-pagelog": "पानाच्या नोंदी",
+	"nanocenter-more": "अधिक",
+	"nanocenter-sitetools": "विकि साधने",
+	"nanocenter-pageactions": "पृष्ठ उपकरणे",
+	"nanocenter-userpagetools": "सदस्य साधने",
+	"nanocenter-pagemisc": "अधिक",
+	"nanocenter-namespaces": "नामविश्वे",
+	"nanocenter-pagetools": "पानाच्या क्रिया",
+	"nanocenter-languages": "भाषा",
+	"nanocenter.js": "/* येथे असलेली जावास्क्रिप्ट, टाईमलेस स्किन वापरुन सदस्यासाठी भारण केली जाईल */"
+}

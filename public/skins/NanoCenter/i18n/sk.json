@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"nanocenter-desc": "Nadčasový vzhľad navrhnutý podľa prototypu Winter od Brandona Harrisa a ďalších štýlov vytvorených nadáciou Wikimedia.",
+	"nanocenter-search-placeholder": "Prehľadávať {{NUMBEROFARTICLES}} stránok",
+	"nanocenter-loggedin": "Váš účet",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Ste {{GENDER:$1|prihlásený|prihlásená}} ako '''$1'''",
+	"nanocenter-notloggedin": "Neprihlásený/á",
+	"nanocenter-userpage": "Stránka {{GENDER:$1|redaktora|redaktorky}}",
+	"nanocenter-talkpage": "Diskusia {{GENDER:$1|redaktora|redaktorky}}",
+	"nanocenter-pagelog": "Protokolové záznamy",
+	"nanocenter-more": "Viac",
+	"nanocenter-sitetools": "Wiki nástroje",
+	"nanocenter-pageactions": "Nástroje",
+	"nanocenter-userpagetools": "Používateľské nástroje",
+	"nanocenter-pagemisc": "Viac",
+	"nanocenter-namespaces": "Menné priestory",
+	"nanocenter-pagetools": "Možnosti stránky",
+	"nanocenter-languages": "Jazyky",
+	"nanocenter.js": "/* Tu sa nachádzajúci JavaScript sa načíta používateľom vzhľadu Timeless */"
+}

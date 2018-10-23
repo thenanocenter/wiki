@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"HakanIST",
+			"Sayginer"
+		]
+	},
+	"nanocenter-search-placeholder": "Yaklaşık {{NUMBEROFARTICLES}} sayfayı ara",
+	"nanocenter-loggedin": "Hesabınız",
+	"nanocenter-anonymous": "Anonim",
+	"nanocenter-notloggedin": "Oturum açık değil",
+	"nanocenter-userpage": "Kullanıcı sayfası",
+	"nanocenter-pagelog": "Sayfa günlükleri",
+	"nanocenter-more": "Daha fazla",
+	"nanocenter-sitetools": "Viki araçları",
+	"nanocenter-pageactions": "Sayfa araçları",
+	"nanocenter-userpagetools": "Kullanıcı araçları",
+	"nanocenter-namespaces": "İsim alanları",
+	"nanocenter-pagetools": "Sayfa işlemleri",
+	"nanocenter-languages": "Diller"
+}

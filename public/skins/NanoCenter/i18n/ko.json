@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hwangjy9",
+			"Revi",
+			"고솜",
+			"Ykhwong",
+			"아라",
+			"Garam",
+			"Nuevo Paso"
+		]
+	},
+	"skinname-nanocenter": "타임리스",
+	"nanocenter-desc": "브랜든 해리스의 윈터 프로토타입 이후 개발된 타임리스 스킨 및 위키미디어 재단의 다양한 스타일.",
+	"nanocenter-search-placeholder": "문서 {{NUMBEROFARTICLES}}개 검색",
+	"nanocenter-loggedin": "사용자 계정",
+	"nanocenter-anonymous": "익명 사용자",
+	"nanocenter-loggedinas": "'''$1'''님으로 로그인됨",
+	"nanocenter-notloggedin": "로그인하지 않음",
+	"nanocenter-userpage": "{{GENDER:$1|사용자}} 문서",
+	"nanocenter-talkpage": "{{GENDER:$1|사용자}}토론",
+	"nanocenter-pagelog": "문서 기록",
+	"nanocenter-more": "더 보기",
+	"nanocenter-sitetools": "위키 도구",
+	"nanocenter-pageactions": "문서 도구",
+	"nanocenter-userpagetools": "사용자 문서 도구",
+	"nanocenter-pagemisc": "더 보기",
+	"nanocenter-namespaces": "이름공간",
+	"nanocenter-pagetools": "문서 행위",
+	"nanocenter-languages": "언어"
+}

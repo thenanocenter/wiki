@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Eflyjason"
+		]
+	},
+	"nanocenter-desc": "在由Brandon Harris设计的冬季标准之后设计的一个不受时间影响的皮肤，以及一些来自维基媒体基金会的风格",
+	"nanocenter-search-placeholder": "搜索{{NUMBEROFARTICLES}}个页面",
+	"nanocenter-loggedin": "您的帐户",
+	"nanocenter-anonymous": "匿名",
+	"nanocenter-loggedinas": "以'''$1'''登录",
+	"nanocenter-notloggedin": "未登录",
+	"nanocenter-userpage": "{{GENDER:$1|用户}}页",
+	"nanocenter-talkpage": "{{GENDER:$1|用户}}讨论",
+	"nanocenter-pagelog": "页面日志",
+	"nanocenter-more": "更多",
+	"nanocenter-sitetools": "Wiki工具",
+	"nanocenter-pageactions": "页面工具",
+	"nanocenter-userpagetools": "用户页面工具",
+	"nanocenter-pagemisc": "更多",
+	"nanocenter-namespaces": "名字空间",
+	"nanocenter-pagetools": "页面选项",
+	"nanocenter-languages": "语言",
+	"nanocenter.js": "/* 这里的任何JavaScript将为使用Timeless皮肤的用户加载 */"
+}

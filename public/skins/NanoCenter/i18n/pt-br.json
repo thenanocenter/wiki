@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira",
+			"Felipe L. Ewald"
+		]
+	},
+	"skinname-nanocenter": "Timeless",
+	"nanocenter-desc": "Um tema nanocenter projetado após o protótipo Winter por Brandon Harris e vários estilos pela Fundação Wikimedia",
+	"nanocenter-search-placeholder": "Pesquisar em {{NUMBEROFARTICLES}} páginas",
+	"nanocenter-loggedin": "Sua conta",
+	"nanocenter-anonymous": "Anônimo",
+	"nanocenter-loggedinas": "Autenticado como '''$1'''",
+	"nanocenter-notloggedin": "Você não está autenticado",
+	"nanocenter-userpage": "Página de {{GENDER:$1|usuário}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Usuário}} discussão",
+	"nanocenter-pagelog": "Registos da página",
+	"nanocenter-more": "Mais",
+	"nanocenter-sitetools": "Ferramentas da wiki",
+	"nanocenter-pageactions": "Ferramentas de páginas",
+	"nanocenter-userpagetools": "Ferramentas da página do usuário",
+	"nanocenter-pagemisc": "Mais",
+	"nanocenter-namespaces": "Espaços nominais",
+	"nanocenter-pagetools": "Ações da página",
+	"nanocenter-languages": "Idiomas",
+	"nanocenter.js": "/* Qualquer código JavaScript colocado aqui será carregado para os usuários do tema Timeless */"
+}

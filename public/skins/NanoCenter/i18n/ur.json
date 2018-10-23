@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obaid Raza",
+			"Muhammad Shuaib"
+		]
+	},
+	"skinname-nanocenter": "ٹائم لیس",
+	"nanocenter-search-placeholder": "{{NUMBEROFARTICLES}} صفحات میں تلاش کریں",
+	"nanocenter-loggedin": "آپ کا کھاتا",
+	"nanocenter-anonymous": "گمنام",
+	"nanocenter-loggedinas": "«$1» صارف نام سے لاگ ان ہیں",
+	"nanocenter-notloggedin": "آپ لاگ ان نہیں ہیں",
+	"nanocenter-userpage": "صفحہ {{GENDER:$1|صارف}}",
+	"nanocenter-talkpage": "تبادلۂ خیال {{GENDER:$1|صارف}}",
+	"nanocenter-pagelog": "صفحے کے نوشتہ جات",
+	"nanocenter-more": "مزید",
+	"nanocenter-sitetools": "ویکی آلات",
+	"nanocenter-pageactions": "آلات صفحہ",
+	"nanocenter-userpagetools": "آلات صفحہ صارف",
+	"nanocenter-pagemisc": "مزید",
+	"nanocenter-namespaces": "نام ہائے فضا",
+	"nanocenter-pagetools": "کارروائیاں",
+	"nanocenter-languages": "زبانیں",
+	"nanocenter.js": "/* یہاں درج جاوا اسکرپٹ محض ان صارفین کے لیے لوڈ ہوگی جو ٹائم لیس پوشاک استعمال کر رہے ہیں */"
+}

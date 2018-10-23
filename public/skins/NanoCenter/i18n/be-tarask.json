@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renessaince",
+			"Red Winged Duck"
+		]
+	},
+	"nanocenter-desc": "Вечная тэма афармленьня, створаная паводле прататыпу Winter аўтарства Брэндана Гарыса і розных стыляў фундацыі «Вікімэдыя».",
+	"nanocenter-search-placeholder": "Пошук сярод {{NUMBEROFARTICLES}} старонак",
+	"nanocenter-loggedin": "Ваш рахунак",
+	"nanocenter-anonymous": "Ананім",
+	"nanocenter-loggedinas": "Увайшлі як '''$1'''",
+	"nanocenter-notloggedin": "Не ўвайшлі ў сыстэму",
+	"nanocenter-userpage": "Старонка {{GENDER:$1|ўдзельніка|ўдзельніцы}}",
+	"nanocenter-talkpage": "Гутаркі {{GENDER:$1|ўдзельніка|ўдзельніцы}}",
+	"nanocenter-pagelog": "Журналы старонкі",
+	"nanocenter-more": "Болей",
+	"nanocenter-sitetools": "Вікі-інструмэнты",
+	"nanocenter-pageactions": "Інструмэнты старонкі",
+	"nanocenter-userpagetools": "Прылады карыстальніка",
+	"nanocenter-pagemisc": "Болей",
+	"nanocenter-namespaces": "Прасторы назваў",
+	"nanocenter-pagetools": "Дзеяньні на старонцы",
+	"nanocenter-languages": "Мовы",
+	"nanocenter.js": "/* Кожны JavaScript, зьмешчаны тут, будзе загружаны для ўсіх удзельнікаў, якія выкарыстоўваюць тэму афармленьня Timeless */"
+}

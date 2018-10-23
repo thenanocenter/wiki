@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sujiniku",
+			"Otokoume",
+			"Whym",
+			"Yusuke1109"
+		]
+	},
+	"nanocenter-desc": "Brandon HarrisによるWinterプロトタイプの後にデザインされたTimelessテーマ。ウィキメディア財団のさまざまなスタイル。",
+	"nanocenter-search-placeholder": "{{NUMBEROFARTICLES}}件のページから検索",
+	"nanocenter-loggedin": "あなたのアカウント",
+	"nanocenter-anonymous": "匿名",
+	"nanocenter-loggedinas": "'''$1''' としてログインしています",
+	"nanocenter-notloggedin": "ログインしていません",
+	"nanocenter-userpage": "{{GENDER:$1|利用者}}ページ",
+	"nanocenter-talkpage": "{{GENDER:$1|利用者}}トーク",
+	"nanocenter-pagelog": "ページの記録",
+	"nanocenter-more": "その他",
+	"nanocenter-sitetools": "ウィキツール",
+	"nanocenter-pageactions": "ページツール",
+	"nanocenter-userpagetools": "利用者ページツール",
+	"nanocenter-pagemisc": "その他",
+	"nanocenter-namespaces": "名前空間",
+	"nanocenter-pagetools": "ページアクション",
+	"nanocenter-languages": "言語",
+	"nanocenter.js": "/* ここにあるすべてのJavaScriptは、Timeless外装を使用している利用者に対して読み込まれます */"
+}

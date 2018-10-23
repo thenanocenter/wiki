@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus",
+			"Eitvys200",
+			"Tomasdd"
+		]
+	},
+	"nanocenter-search-placeholder": "Ieškoti tarp {{NUMBEROFARTICLES}} puslapių",
+	"nanocenter-loggedin": "Jūsų paskyra",
+	"nanocenter-anonymous": "Anonimas",
+	"nanocenter-loggedinas": "Prisijungęs kaip '''$1'''",
+	"nanocenter-notloggedin": "Neprisijungta",
+	"nanocenter-more": "Daugiau",
+	"nanocenter-pageactions": "Puslapio įrankiai",
+	"nanocenter-userpagetools": "Naudotojo puslapio įrankiai",
+	"nanocenter-pagemisc": "Daugiau",
+	"nanocenter-namespaces": "Vardų sritys",
+	"nanocenter-pagetools": "Puslapio veiksmai",
+	"nanocenter-languages": "Kalbos"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar",
+			"Dbc334"
+		]
+	},
+	"nanocenter-desc": "Brezčasna koža, oblikovana po prototipu Winter Brandona Harrisa in po različnih slogih Fundacije Wikimedia.",
+	"nanocenter-search-placeholder": "Preiščite {{NUMBEROFARTICLES}} strani",
+	"nanocenter-loggedin": "Vaš račun",
+	"nanocenter-anonymous": "Brezimen",
+	"nanocenter-loggedinas": "Prijavljeni ste kot '''$1'''",
+	"nanocenter-notloggedin": "Niste prijavljeni",
+	"nanocenter-userpage": "{{GENDER:$1|Uporabniška}} stran",
+	"nanocenter-talkpage": "{{GENDER:$1|Uporabniški}} pogovor",
+	"nanocenter-pagelog": "Dnevniki strani",
+	"nanocenter-more": "Več",
+	"nanocenter-sitetools": "Orodja wikija",
+	"nanocenter-pageactions": "Orodja strani",
+	"nanocenter-userpagetools": "Orodja uporabniške strani",
+	"nanocenter-pagemisc": "Več",
+	"nanocenter-namespaces": "Imenski prostori",
+	"nanocenter-pagetools": "Dejanja strani",
+	"nanocenter-languages": "Jeziki"
+}

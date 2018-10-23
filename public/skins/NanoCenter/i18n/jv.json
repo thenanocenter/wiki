@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"nanocenter-loggedin": "Akun panjenengan",
+	"nanocenter-anonymous": "Anonim",
+	"nanocenter-loggedinas": "Mlebu log minangka '''$1'''",
+	"nanocenter-notloggedin": "Durung mlebu log",
+	"nanocenter-userpage": "Kaca {{GENDER:$1|panganggo}}",
+	"nanocenter-talkpage": "Parembugan {{GENDER:$1|panganggo}}",
+	"nanocenter-pagelog": "Log kaca",
+	"nanocenter-more": "Liyané",
+	"nanocenter-sitetools": "Piranti wiki",
+	"nanocenter-pageactions": "Piranti kaca",
+	"nanocenter-userpagetools": "Piranti panganggo",
+	"nanocenter-pagemisc": "Liyané",
+	"nanocenter-namespaces": "Mandala aran",
+	"nanocenter-pagetools": "Tumindak kaca",
+	"nanocenter-languages": "Basa"
+}

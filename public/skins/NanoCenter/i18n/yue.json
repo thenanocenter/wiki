@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yueman"
+		]
+	},
+	"nanocenter-desc": "Timeless 外觀係由 Brandon Harris 繼 Winter 原型之後嘅新設計，亦包含嚟自維基媒體基金會嘅式樣。",
+	"nanocenter-search-placeholder": "響約莫 {{NUMBEROFARTICLES}} 版度揾嘢",
+	"nanocenter-loggedin": "你個戶口",
+	"nanocenter-anonymous": "無名氏",
+	"nanocenter-loggedinas": "用  '''$1''' 身份簽到",
+	"nanocenter-notloggedin": "未簽到",
+	"nanocenter-userpage": "{{GENDER:$1|用戶}}頁",
+	"nanocenter-talkpage": "{{GENDER:$1|用戶}}傾偈",
+	"nanocenter-pagelog": "版嘅日誌",
+	"nanocenter-more": "多啲",
+	"nanocenter-sitetools": "維基架撐",
+	"nanocenter-pageactions": "版嘅架撐",
+	"nanocenter-userpagetools": "用戶頁架撐",
+	"nanocenter-pagemisc": "多啲",
+	"nanocenter-namespaces": "空間名",
+	"nanocenter-pagetools": "版嘅動作",
+	"nanocenter-languages": "語言"
+}

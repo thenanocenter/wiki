@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xaris333",
+			"Nikosgranturismogt"
+		]
+	},
+	"nanocenter-loggedin": "Ο λογαριασμός σας",
+	"nanocenter-anonymous": "Ανώνυμος",
+	"nanocenter-loggedinas": "Συνδεδεμένος ως \"$1\"",
+	"nanocenter-notloggedin": "Δεν έχετε συνδεθεί",
+	"nanocenter-userpage": "{{GENDER:$1|Χρήστης}} σελίδα",
+	"nanocenter-talkpage": "{{GENDER:$1|Χρήστης}} συζήτηση",
+	"nanocenter-pagelog": "Μητρώα σελίδας",
+	"nanocenter-more": "Περισσότερα",
+	"nanocenter-sitetools": "Εργαλεία του βίκι",
+	"nanocenter-pageactions": "Εργαλεία σελίδων",
+	"nanocenter-userpagetools": "Εργαλεία σελίδας χρήστη",
+	"nanocenter-pagemisc": "Περισσότερα",
+	"nanocenter-namespaces": "Ονοματοχώροι",
+	"nanocenter-pagetools": "Ενέργειες σελίδας",
+	"nanocenter-languages": "Γλώσσες"
+}

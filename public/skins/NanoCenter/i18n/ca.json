@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Vriullop"
+		]
+	},
+	"nanocenter-desc": "Una aparença atemporal dissenyada a partir del prototip Winter de Brandon Harris i diversos estils de la Fundació Wikimedia",
+	"nanocenter-search-placeholder": "Cerca entre {{NUMBEROFARTICLES}} pàgines aproximadament",
+	"nanocenter-loggedin": "Compte d'usuari",
+	"nanocenter-anonymous": "Anònim",
+	"nanocenter-loggedinas": "Registrat com a '''$1'''",
+	"nanocenter-notloggedin": "Sense sessió iniciada",
+	"nanocenter-userpage": "Pàgina d'{{GENDER:$1|usuari}}",
+	"nanocenter-talkpage": "Discussió d'{{GENDER:$1|usuari}}",
+	"nanocenter-pagelog": "Registres de la pàgina",
+	"nanocenter-more": "Més",
+	"nanocenter-sitetools": "Eines wiki",
+	"nanocenter-pageactions": "Eines de pàgina",
+	"nanocenter-userpagetools": "Eines de pàgina d'usuari",
+	"nanocenter-pagemisc": "Més",
+	"nanocenter-namespaces": "Espais de noms",
+	"nanocenter-pagetools": "Accions de pàgina",
+	"nanocenter-languages": "Llengües"
+}

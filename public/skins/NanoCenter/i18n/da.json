@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sarrus",
+			"Joedalton"
+		]
+	},
+	"nanocenter-desc": "Et tidsløst tema designet efter Winterprototypen af Brando Harris, og diverse stil af Wikimedia Foundation.",
+	"nanocenter-search-placeholder": "Søgning i cirka {{NUMBEROFARTICLES}} sider",
+	"nanocenter-loggedin": "Din konto",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Logget på »$1«",
+	"nanocenter-notloggedin": "Ikke logget på",
+	"nanocenter-userpage": "{{GENDER:$1|Brugerside}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Brugerdiskussion}}",
+	"nanocenter-pagelog": "Sidelogge",
+	"nanocenter-more": "Mere",
+	"nanocenter-sitetools": "Wikiværktøjer",
+	"nanocenter-pageactions": "Sideværktøjer",
+	"nanocenter-userpagetools": "Brugersideværktøjer",
+	"nanocenter-pagemisc": "Mere",
+	"nanocenter-namespaces": "Navnerum",
+	"nanocenter-pagetools": "Sidehandlinger",
+	"nanocenter-languages": "Sprog"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Gomoko",
+			"Wladek92",
+			"Framawiki",
+			"Urhixidur",
+			"Verdy p",
+			"Automatik"
+		]
+	},
+	"nanocenter-desc": "Un habillage intemporel conçu d’après le prototype Winter par Brandon Harris, et divers styles de la Fondation Wikimédia",
+	"nanocenter-search-placeholder": "Rechercher dans {{PLURAL:{{NUMBEROFARTICLES}}|le|les}} {{NUMBEROFARTICLES}} {{PLURAL:{{NUMBEROFARTICLES}}|page|pages}}",
+	"nanocenter-loggedin": "Votre compte",
+	"nanocenter-anonymous": "Anonyme",
+	"nanocenter-loggedinas": "Connecté{{GENDER:$1||e}} en tant que <strong>$1</strong>",
+	"nanocenter-notloggedin": "Non connecté(e)",
+	"nanocenter-userpage": "Page de l’{{GENDER:$1|utilisateur|utilisatrice}}",
+	"nanocenter-talkpage": "Discussion avec l’{{GENDER:$1|utilisateur|utilisatrice}}",
+	"nanocenter-pagelog": "Journaux de page",
+	"nanocenter-more": "Plus",
+	"nanocenter-sitetools": "Outils wiki",
+	"nanocenter-pageactions": "Outils de page",
+	"nanocenter-userpagetools": "Outils de la page utilisateur",
+	"nanocenter-pagemisc": "Plus",
+	"nanocenter-namespaces": "Espaces de noms",
+	"nanocenter-pagetools": "Actions de page",
+	"nanocenter-languages": "Langues",
+	"nanocenter.js": "/* Tout JavaScript ici sera chargé pour les utilisateurs de l’habillage Timeless */"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"nanocenter-desc": "Un abilhatge intemporal concebut d’aprèp lo prototipe Winter per Brandon Harris, e divèrses estils de la Fondacion Wikimèdia.",
+	"nanocenter-search-placeholder": "Recercar environ {{NUMBEROFARTICLES}} paginas",
+	"nanocenter-loggedin": "Vòstre compte",
+	"nanocenter-anonymous": "Anonim",
+	"nanocenter-loggedinas": "Connectat en tant que '''$1'''",
+	"nanocenter-notloggedin": "Pas connectat",
+	"nanocenter-userpage": "Pagina {{GENDER:$1|utilizaire}}",
+	"nanocenter-talkpage": "Discussion {{GENDER:$1|utilizaire}}",
+	"nanocenter-pagelog": "Registres de pagina",
+	"nanocenter-more": "Mai",
+	"nanocenter-sitetools": "Aisinas wiki",
+	"nanocenter-pageactions": "Aisinas de pagina",
+	"nanocenter-userpagetools": "Aisinas de pagina d'utilizaire",
+	"nanocenter-pagemisc": "Mai",
+	"nanocenter-namespaces": "Espacis de noms",
+	"nanocenter-pagetools": "Accions de pagina",
+	"nanocenter-languages": "Lengas"
+}

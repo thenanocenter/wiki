@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Obsuser",
+			"Acamicamacaraca",
+			"BadDog"
+		]
+	},
+	"skinname-nanocenter": "Безвременска",
+	"nanocenter-desc": "Безвременски скин дизајниран по прототипу Winter који је направио Брендон Харис, те другим стиловима Задужбине Викимедија",
+	"nanocenter-search-placeholder": "Претражи {{NUMBEROFARTICLES}} {{PLURAL:{{NUMBEROFARTICLES}}|страницу|странице|страница}}",
+	"nanocenter-loggedin": "Ваш налог",
+	"nanocenter-anonymous": "Анонимно",
+	"nanocenter-loggedinas": "Пријављени сте као '''$1'''",
+	"nanocenter-notloggedin": "Нисте пријављени",
+	"nanocenter-userpage": "Страница {{GENDER:$1|корисника|кориснице|корисника}}",
+	"nanocenter-talkpage": "Разговор са {{GENDER:$1|корисником|корисницом|корисником}}",
+	"nanocenter-pagelog": "Дневници странице",
+	"nanocenter-more": "Више",
+	"nanocenter-sitetools": "Вики алатке",
+	"nanocenter-pageactions": "Алатке за страницу",
+	"nanocenter-userpagetools": "Алатке за корисничку страницу",
+	"nanocenter-pagemisc": "Више",
+	"nanocenter-namespaces": "Именски простори",
+	"nanocenter-pagetools": "Радње за страницу",
+	"nanocenter-languages": "Језици",
+	"nanocenter.js": "/* Јаваскрипт постављен овде ће се учитати за све оне који користе безвременску тему */"
+}

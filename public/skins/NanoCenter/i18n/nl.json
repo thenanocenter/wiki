@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sjoerddebruin",
+			"Mainframe98"
+		]
+	},
+	"nanocenter-desc": "Een tijdloze vormgeving, ontworpen naar het Winter-prototype door Brandon Harris en andere stijlen van de Wikimedia Foundation.",
+	"nanocenter-search-placeholder": "Doorzoek ongeveer {{NUMBEROFARTICLES}} pagina's",
+	"nanocenter-loggedin": "Uw account",
+	"nanocenter-anonymous": "Anonieme gebruiker",
+	"nanocenter-loggedinas": "Aangemeld als '''$1'''",
+	"nanocenter-notloggedin": "Niet aangemeld",
+	"nanocenter-userpage": "{{GENDER:$1|Gebruiker}}spagina",
+	"nanocenter-talkpage": "Overleg {{GENDER:$1|gebruiker}}",
+	"nanocenter-pagelog": "Paginalogboek",
+	"nanocenter-more": "Meer",
+	"nanocenter-sitetools": "Wikihulpmiddelen",
+	"nanocenter-pageactions": "Paginahulpmiddelen",
+	"nanocenter-userpagetools": "Gebruikerspagina-hulpmiddelen",
+	"nanocenter-pagemisc": "Meer",
+	"nanocenter-namespaces": "Naamruimten",
+	"nanocenter-pagetools": "Pagina-acties",
+	"nanocenter-languages": "Talen",
+	"nanocenter.js": "/* JavaScript die hier wordt geplaatst heeft alleen invloed op gebruikers die het uiterlijk Timeless gebruiken */"
+}

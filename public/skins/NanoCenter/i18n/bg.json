@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"StanProg",
+			"ShockD"
+		]
+	},
+	"nanocenter-desc": "Обликът Timeless е създаден на базата на прототипа Winter от Брандън Харис и няколко други стилове на Фондация Уикимедия.",
+	"nanocenter-search-placeholder": "Търсене в {{NUMBEROFARTICLES}} страници",
+	"nanocenter-loggedin": "Вашата потребителска сметка",
+	"nanocenter-anonymous": "Анонимен",
+	"nanocenter-loggedinas": "Влезли сте като '''$1'''",
+	"nanocenter-notloggedin": "Не сте влезли",
+	"nanocenter-userpage": "{{GENDER:$1|Потребителска}} страница",
+	"nanocenter-talkpage": "{{GENDER:$1|Потребителска}} беседа",
+	"nanocenter-pagelog": "Дневници на страницата",
+	"nanocenter-more": "Повече",
+	"nanocenter-sitetools": "Уики инструменти",
+	"nanocenter-pageactions": "Инструменти за страниците",
+	"nanocenter-userpagetools": "Инструменти за потребителска страница",
+	"nanocenter-pagemisc": "Повече",
+	"nanocenter-namespaces": "Именни пространства",
+	"nanocenter-pagetools": "Действия на страницата",
+	"nanocenter-languages": "Езици",
+	"nanocenter.js": "/* Поставеният тук JavaScript ще бъде зареден за потребители, използващи облика Timeless */"
+}

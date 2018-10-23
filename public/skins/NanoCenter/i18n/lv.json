@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"nanocenter-loggedin": "Tavs konts",
+	"nanocenter-userpage": "{{GENDER:$1|Dalībnieka|Dalībnieces}} lapa",
+	"nanocenter-talkpage": "{{GENDER:$1|Dalībnieka|Dalībnieces}} diskusija",
+	"nanocenter-pagelog": "Lapas žurnāli",
+	"nanocenter-more": "Vairāk",
+	"nanocenter-pageactions": "Lapas rīki",
+	"nanocenter-userpagetools": "Dalībnieka lapas rīki",
+	"nanocenter-pagemisc": "Vairāk",
+	"nanocenter-namespaces": "Vārdtelpas",
+	"nanocenter-pagetools": "Lapas darbības",
+	"nanocenter-languages": "Valodas"
+}

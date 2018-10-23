@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ата",
+			"Andriykopanytsia",
+			"Piramidion",
+			"Movses"
+		]
+	},
+	"nanocenter-desc": "Оформлення «Вічне», створене за прототипом «Зима» Брендона Гарріса та різноманітними стилями Фонду Вікімедіа",
+	"nanocenter-search-placeholder": "Пошук на {{NUMBEROFARTICLES}} {{PLURAL:{{NUMBEROFARTICLES}}|сторінці|сторінках}}",
+	"nanocenter-loggedin": "Ваш обліковий запис",
+	"nanocenter-anonymous": "Анонім",
+	"nanocenter-loggedinas": "Увійшли як '''$1'''",
+	"nanocenter-notloggedin": "Не увійшли до системи",
+	"nanocenter-userpage": "Сторінка {{GENDER:$1|користувача|користувачки}}",
+	"nanocenter-talkpage": "Обговорення {{GENDER:$1|користувача|користувачки}}",
+	"nanocenter-pagelog": "Журнали сторінки",
+	"nanocenter-more": "Ще",
+	"nanocenter-sitetools": "Вікі-інструменти",
+	"nanocenter-pageactions": "Інструменти сторінки",
+	"nanocenter-userpagetools": "Інструменти сторінки користувача",
+	"nanocenter-pagemisc": "Ще",
+	"nanocenter-namespaces": "Простори назв",
+	"nanocenter-pagetools": "Дії над сторінкою",
+	"nanocenter-languages": "Мови",
+	"nanocenter.js": "/* Розміщений тут код JavaScript буде завантажений для всіх користувачів, що використовують тему оформлення «Вічне» */"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"nanocenter-loggedin": "Тіркелгіңіз",
+	"nanocenter-anonymous": "Анонимді",
+	"nanocenter-loggedinas": "'''$1''' ретінде кіру",
+	"nanocenter-notloggedin": "Кірмегенсіз",
+	"nanocenter-userpage": "Қатысушы беті",
+	"nanocenter-talkpage": "Қатысушы талқылауы",
+	"nanocenter-pagelog": "Бет журналдары",
+	"nanocenter-more": "Тағы",
+	"nanocenter-sitetools": "Уики құралдар",
+	"nanocenter-pageactions": "Бет құралдары",
+	"nanocenter-userpagetools": "Қатысушы құралдары",
+	"nanocenter-pagemisc": "Тағы",
+	"nanocenter-namespaces": "Есім кеңістіктері",
+	"nanocenter-pagetools": "Бет әрекеттері",
+	"nanocenter-languages": "Тілдер"
+}

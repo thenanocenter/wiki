@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"LNDDYL",
+			"Cwlin0416",
+			"Wehwei",
+			"Eflyjason",
+			"Kly"
+		]
+	},
+	"nanocenter-desc": "Timeless 是 Brandon Harris 繼 Winter prototype 之後所設計的，其中的各種樣式來自維基媒體基金會",
+	"nanocenter-search-placeholder": "搜尋 {{NUMBEROFARTICLES}} 個頁面",
+	"nanocenter-loggedin": "您的帳號",
+	"nanocenter-anonymous": "匿名",
+	"nanocenter-loggedinas": "已登入為 '''$1'''",
+	"nanocenter-notloggedin": "尚未登入",
+	"nanocenter-userpage": "{{GENDER:$1|使用者}}頁面",
+	"nanocenter-talkpage": "{{GENDER:$1|使用者}}對話",
+	"nanocenter-pagelog": "頁面紀錄",
+	"nanocenter-more": "更多",
+	"nanocenter-sitetools": "wiki 工具",
+	"nanocenter-pageactions": "頁面工具",
+	"nanocenter-userpagetools": "使用者頁面工具",
+	"nanocenter-pagemisc": "更多",
+	"nanocenter-namespaces": "命名空間",
+	"nanocenter-pagetools": "頁面動作",
+	"nanocenter-languages": "語言",
+	"nanocenter.js": "/* 在使用者使用 Timeless 外觀時，任何在此的 JavaScript 都會被載入 */"
+}

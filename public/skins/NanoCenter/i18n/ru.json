@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras",
+			"Redredsonia"
+		]
+	},
+	"nanocenter-desc": "Тема оформления Timeless создана после прототипа Winter Брэндона Харриса и различных стилей Фонда Викимедиа.",
+	"nanocenter-search-placeholder": "Поиск из {{NUMBEROFARTICLES}} страниц",
+	"nanocenter-loggedin": "Учётная запись",
+	"nanocenter-anonymous": "Аноним",
+	"nanocenter-loggedinas": "Вошёл как '''$1'''",
+	"nanocenter-notloggedin": "Вы не представились системе",
+	"nanocenter-userpage": "Страница {{GENDER:$1|участника|участницы}}",
+	"nanocenter-talkpage": "Обсуждение {{GENDER:$1|участника|участницы}}",
+	"nanocenter-pagelog": "Журналы страницы",
+	"nanocenter-more": "Ещё",
+	"nanocenter-sitetools": "Вики-инструменты",
+	"nanocenter-pageactions": "Инструменты для страниц",
+	"nanocenter-userpagetools": "Инструменты страницы участника",
+	"nanocenter-pagemisc": "Ещё",
+	"nanocenter-namespaces": "Пространства имён",
+	"nanocenter-pagetools": "Действия на странице",
+	"nanocenter-languages": "Языки",
+	"nanocenter.js": "/* Размещённый здесь код JavaScript будет загружаться пользователям, использующим тему оформления Timeless */"
+}

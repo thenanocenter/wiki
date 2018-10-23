@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"AmaryllisGardener"
+		]
+	},
+	"nanocenter-loggedin": "Yer accoont",
+	"nanocenter-loggedinas": "Logged in as '''$1'''",
+	"nanocenter-notloggedin": "Nae logged in",
+	"nanocenter-userpage": "{{GENDER:$1|Uiser}} page",
+	"nanocenter-talkpage": "{{GENDER:$1|Uiser}} tauk",
+	"nanocenter-pagelog": "Page logs",
+	"nanocenter-more": "Mair",
+	"nanocenter-sitetools": "Wiki tuils",
+	"nanocenter-pageactions": "Page tuils"
+}

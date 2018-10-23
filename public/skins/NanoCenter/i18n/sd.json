@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed",
+			"Aursani",
+			"Indus Asia"
+		]
+	},
+	"nanocenter-search-placeholder": "{{NUMBEROFARTICLES}} صفحا ڳوليو",
+	"nanocenter-loggedin": "توهان جو کاتو",
+	"nanocenter-anonymous": "گمنام",
+	"nanocenter-userpage": "{{GENDER:$1|واپرائيندڙ}} جو صفحو",
+	"nanocenter-talkpage": "{{GENDER:$1|واپرائيندڙ سان}} ڳالھ",
+	"nanocenter-pagelog": "صفحاتي لاگس",
+	"nanocenter-sitetools": "وڪي اوزار",
+	"nanocenter-pageactions": "صفحاتِي اوزار",
+	"nanocenter-userpagetools": "واپرائيندڙ جي صفحي جا اوزار",
+	"nanocenter-pagemisc": "وڌيڪ",
+	"nanocenter-namespaces": "نانءُپولار",
+	"nanocenter-pagetools": "صفحاتِي عمل"
+}

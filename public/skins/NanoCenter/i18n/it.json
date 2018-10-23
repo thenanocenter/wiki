@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Macofe"
+		]
+	},
+	"nanocenter-desc": "Un tema senza tempo disegnato dopo il prototipo Winter da Brandon Harris, e vari stili della Wikimedia Foundation",
+	"nanocenter-search-placeholder": "Cerca su {{NUMBEROFARTICLES}} pagine",
+	"nanocenter-loggedin": "La tua utenza",
+	"nanocenter-anonymous": "Anonimo",
+	"nanocenter-loggedinas": "Accesso effettuato come '''$1'''",
+	"nanocenter-notloggedin": "Accesso non effettuato",
+	"nanocenter-userpage": "Pagina {{GENDER:$1|utente}}",
+	"nanocenter-talkpage": "Discussioni {{GENDER:$1|utente}}",
+	"nanocenter-pagelog": "Registri della pagina",
+	"nanocenter-more": "Altro",
+	"nanocenter-sitetools": "Strumenti wiki",
+	"nanocenter-pageactions": "Strumenti pagine",
+	"nanocenter-userpagetools": "Strumenti pagina utente",
+	"nanocenter-pagemisc": "Altro",
+	"nanocenter-namespaces": "Namespace",
+	"nanocenter-pagetools": "Azioni sulla pagina",
+	"nanocenter-languages": "Lingue",
+	"nanocenter.js": "/* Il codice JavaScript inserito qui viene caricato dagli utenti che usano il tema Timeless */"
+}

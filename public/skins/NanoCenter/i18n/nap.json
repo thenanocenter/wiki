@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"C.R.",
+			"S4b1nuz E.656"
+		]
+	},
+	"nanocenter-desc": "Nu skin senza tiempo disegnata cu' bbase 'o prototipo Winter 'a Brandon Harris, e divierze stile WMFy.",
+	"nanocenter-search-placeholder": "Ascìa ncopp'a nu {{NUMBEROFARTICLES}} paggene circa",
+	"nanocenter-loggedin": "'O cunto vuosto",
+	"nanocenter-anonymous": "Anonimo",
+	"nanocenter-loggedinas": "Trasuto/a comm'a '''$1'''",
+	"nanocenter-notloggedin": "Acciesso nun affettuato",
+	"nanocenter-userpage": "Paggena {{GENDER:$1|utente}}",
+	"nanocenter-talkpage": "Chiàcchiera '{{GENDER:$1|utente}}",
+	"nanocenter-pagelog": "Riggistre 'e paggena",
+	"nanocenter-more": "Cchiù",
+	"nanocenter-sitetools": "Strumiente 'e wiki",
+	"nanocenter-pageactions": "Strumiente 'e paggena",
+	"nanocenter-userpagetools": "Strumiente 'utente",
+	"nanocenter-pagemisc": "Cchiù",
+	"nanocenter-namespaces": "Namespace",
+	"nanocenter-pagetools": "Aziune 'e paggena",
+	"nanocenter-languages": "Llengue"
+}

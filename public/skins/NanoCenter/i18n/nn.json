@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby",
+			"Njardarlogar"
+		]
+	},
+	"nanocenter-desc": "Ei tidlaus drakt designa etter Winter-prototypen av Brandon Harris, og diverse andre stilar av Wikimedia Foundation",
+	"nanocenter-search-placeholder": "Søk i {{NUMBEROFARTICLES}} sider",
+	"nanocenter-loggedin": "Kontoen din",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Innlogga som '''$1'''",
+	"nanocenter-notloggedin": "Ikkje innlogga",
+	"nanocenter-userpage": "{{GENDER:$1|Brukarside}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Brukardiskusjon}}",
+	"nanocenter-pagelog": "Sideloggar",
+	"nanocenter-more": "Meir",
+	"nanocenter-sitetools": "Wikiverktyg",
+	"nanocenter-pageactions": "Sideverktøy",
+	"nanocenter-userpagetools": "Brukarsideverktøy",
+	"nanocenter-pagemisc": "Meir",
+	"nanocenter-namespaces": "Namnerom",
+	"nanocenter-pagetools": "Sidehandlingar",
+	"nanocenter-languages": "Språk"
+}

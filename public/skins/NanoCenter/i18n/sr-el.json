@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Obsuser",
+			"Zoranzoki21"
+		]
+	},
+	"nanocenter-desc": "Bezvremenski skin dizajniran po prototipu Winter koji je napravio Brendon Haris, te drugim stilovima Zadužbine Vikimedija",
+	"nanocenter-search-placeholder": "Pretraži {{NUMBEROFARTICLES}} {{PLURAL:{{NUMBEROFARTICLES}}|stranicu|stranice|stranica}}",
+	"nanocenter-loggedin": "Vaš nalog",
+	"nanocenter-anonymous": "Anonimno",
+	"nanocenter-loggedinas": "Prijavljeni ste kao '''$1'''",
+	"nanocenter-notloggedin": "Niste prijavljeni",
+	"nanocenter-userpage": "Stranica {{GENDER:$1|korisnika|korisnice|korisnika}}",
+	"nanocenter-talkpage": "Razgovor sa {{GENDER:$1|korisnikom|korisnicom|korisnikom}}",
+	"nanocenter-pagelog": "Dnevnici stranice",
+	"nanocenter-more": "Više",
+	"nanocenter-sitetools": "Viki alatke",
+	"nanocenter-pageactions": "Alatke za stranicu",
+	"nanocenter-userpagetools": "Alatke za korisničku stranicu",
+	"nanocenter-pagemisc": "Više",
+	"nanocenter-namespaces": "Imenski prostori",
+	"nanocenter-pagetools": "Radnje za stranicu",
+	"nanocenter-languages": "Jezici"
+}

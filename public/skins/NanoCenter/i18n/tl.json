@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leeheonjin"
+		]
+	},
+	"nanocenter-loggedin": "Ang iyong akawnt",
+	"nanocenter-anonymous": "Di-nagpakilala (anonimo)",
+	"nanocenter-loggedinas": "Nakalagda bilang si '''$1'''",
+	"nanocenter-notloggedin": "Hindi nakalagda",
+	"nanocenter-userpage": "Pahina ng tagagamit",
+	"nanocenter-talkpage": "Usapang pang-tagagamit",
+	"nanocenter-more": "Higit pa",
+	"nanocenter-sitetools": "Mga kagamitang pangwiki",
+	"nanocenter-pageactions": "Mga kagamitang pang-pahina",
+	"nanocenter-userpagetools": "Mga kagamitang pang-tagagamit",
+	"nanocenter-languages": "Mga wika"
+}

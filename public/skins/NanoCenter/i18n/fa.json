@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reza1615",
+			"Alirezaaa"
+		]
+	},
+	"nanocenter-desc": "پوسته بدون زمان طراحی شده بعد از پروتوتایپ زمستان توسط براندون هریس و بسیاری از مدل‌های بنیاد ویکی‌مدیا",
+	"nanocenter-search-placeholder": "جستجوی {{NUMBEROFARTICLES}} صفحه",
+	"nanocenter-loggedin": "حساب کاربری شما",
+	"nanocenter-anonymous": "ناشناس",
+	"nanocenter-loggedinas": "ورد به سامانه به عنوان '''$1'''",
+	"nanocenter-notloggedin": "عدم ورود به سامانه",
+	"nanocenter-userpage": "صفحهٔ {{GENDER:$1|کاربر}}",
+	"nanocenter-talkpage": "بحث {{GENDER:$1|کاربر}}",
+	"nanocenter-pagelog": "صفحه سیاهه",
+	"nanocenter-more": "بیشتر",
+	"nanocenter-sitetools": "ابزارهای ویکی",
+	"nanocenter-pageactions": "ابزارهای صفحه",
+	"nanocenter-userpagetools": "ابزارهای صفحهٔ کاربر",
+	"nanocenter-pagemisc": "بیشتر",
+	"nanocenter-namespaces": "فضاهای نام",
+	"nanocenter-pagetools": "عملکردهای صفحه",
+	"nanocenter-languages": "زبان‌ها",
+	"nanocenter.js": "/ * کدهای جاوااسکریپتی که در اینجا قرار می‌گیرند برای کاربران پوستهٔ تایم‌لاین بارگیری می‌شود * /"
+}

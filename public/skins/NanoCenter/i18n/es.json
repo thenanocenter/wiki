@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"SinNovedades",
+			"Julián L",
+			"Fitoschido",
+			"MarcoAurelio"
+		]
+	},
+	"nanocenter-desc": "Una apariencia atemporal, diseñada por Brandon Harris en base al prototipo Winter y a varios estilos de la Fundación Wikimedia.",
+	"nanocenter-search-placeholder": "Buscar en {{NUMBEROFARTICLES}} páginas",
+	"nanocenter-loggedin": "Tu cuenta",
+	"nanocenter-anonymous": "Anónimo",
+	"nanocenter-loggedinas": "Sesión iniciada como '''$1'''",
+	"nanocenter-notloggedin": "No has accedido",
+	"nanocenter-userpage": "Página de {{GENDER:$1|usuario|usuaria}}",
+	"nanocenter-talkpage": "Discusión de {{GENDER:$1|usuario|usuaria}}",
+	"nanocenter-pagelog": "Registros de página",
+	"nanocenter-more": "Más",
+	"nanocenter-sitetools": "Herramientas wiki",
+	"nanocenter-pageactions": "Herramientas de página",
+	"nanocenter-userpagetools": "Herramientas de página de usuario",
+	"nanocenter-pagemisc": "Más",
+	"nanocenter-namespaces": "Espacios de nombres",
+	"nanocenter-pagetools": "Acciones de página",
+	"nanocenter-languages": "Idiomas",
+	"nanocenter.js": "/* Cualquier código JavaScript escrito aquí se cargará para todos los usuarios que usen la apariencia Timeless */"
+}

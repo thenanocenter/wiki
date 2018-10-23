@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm",
+			"Banjo"
+		]
+	},
+	"nanocenter-desc": "Unha aparencia atemporal, deseñada por Brandon Harris en base ó prototipo Winter, e varios estilos da Fundación Wikimedia.",
+	"nanocenter-search-placeholder": "Buscar {{NUMBEROFARTICLES}} páxinas",
+	"nanocenter-loggedin": "A súa conta",
+	"nanocenter-anonymous": "Anónimo",
+	"nanocenter-loggedinas": "Conectado como '''$1'''",
+	"nanocenter-notloggedin": "Non conectado",
+	"nanocenter-userpage": "Páxina de {{GENDER:$1|usuario|usuaria}}",
+	"nanocenter-talkpage": "Conversa de {{GENDER:$1|usuario|usuaria}}",
+	"nanocenter-pagelog": "Rexistros de páxina",
+	"nanocenter-more": "Máis",
+	"nanocenter-sitetools": "Ferramentas wiki",
+	"nanocenter-pageactions": "Ferramentas das páxinas",
+	"nanocenter-userpagetools": "Ferramentas de páxina de usuario",
+	"nanocenter-pagemisc": "Máis",
+	"nanocenter-namespaces": "Espazos de nomes",
+	"nanocenter-pagetools": "Accións de páxina",
+	"nanocenter-languages": "Linguas"
+}

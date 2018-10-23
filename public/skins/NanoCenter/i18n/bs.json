@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"nanocenter-loggedin": "Vaš račun",
+	"nanocenter-anonymous": "Anoniman",
+	"nanocenter-loggedinas": "Prijavljeni ste kao '''$1'''",
+	"nanocenter-notloggedin": "Niste prijavljeni",
+	"nanocenter-userpage": "{{GENDER:$1|Korisnička}} stranica",
+	"nanocenter-talkpage": "Razgovor s {{GENDER:$1|korisnikom|korisnicom}}",
+	"nanocenter-more": "Više",
+	"nanocenter-pagemisc": "Više",
+	"nanocenter-namespaces": "Imenski prostori",
+	"nanocenter-languages": "Jezici"
+}

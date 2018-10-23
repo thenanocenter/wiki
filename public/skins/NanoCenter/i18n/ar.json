@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maroen1990",
+			"محمد أحمد عبد الفتاح",
+			"Mido",
+			"ديفيد"
+		]
+	},
+	"nanocenter-desc": "برنامج مساعد خالد صُمِّم بعد النموذج المبدئي الشتوي الذي صممه براندون هاريس، وأساليب متنوعة من قبل مؤسسة ويكيميديا",
+	"nanocenter-search-placeholder": "ابحث في حوالي {{NUMBEROFARTICLES}} صفحة",
+	"nanocenter-loggedin": "حساب المستخدم",
+	"nanocenter-anonymous": "مجهول",
+	"nanocenter-loggedinas": "الدخول مسجل باسم '''$1'''",
+	"nanocenter-notloggedin": "غير مسجل الدخول",
+	"nanocenter-userpage": "صفحة {{GENDER:$1|المستخدم|المستخدمة}}",
+	"nanocenter-talkpage": "نقاش {{GENDER:$1|المستخدم|المستخدمة}}",
+	"nanocenter-pagelog": "سجلات الصفحة",
+	"nanocenter-more": "المزيد",
+	"nanocenter-sitetools": "ادوات ويكي",
+	"nanocenter-pageactions": "أدوات الصفحات",
+	"nanocenter-userpagetools": "ادوات صفحة المستخدم",
+	"nanocenter-pagemisc": "المزيد",
+	"nanocenter-namespaces": "أسماء النطاقات",
+	"nanocenter-pagetools": "إجراءات الصفحة",
+	"nanocenter-languages": "اللغات",
+	"nanocenter.js": "/ * سيتم تحميل أي جافا سكريبت هنا للمستخدمين باستخدام البرنامج المساعد الخالدة * /"
+}

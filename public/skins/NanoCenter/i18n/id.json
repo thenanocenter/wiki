@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kenrick95"
+		]
+	},
+	"nanocenter-desc": "Sebuah kulit tanpa batas waktu yang dirancang berdasarkan prototipe Winter oleh Brandon Harris, dan gaya-gaya lainnya oleh Wikimedia Foundation.",
+	"nanocenter-search-placeholder": "Cari {{NUMBEROFARTICLES}} halaman",
+	"nanocenter-loggedin": "Akun Anda",
+	"nanocenter-anonymous": "Anonim",
+	"nanocenter-loggedinas": "Telah masuk log sebagai '''$1'''",
+	"nanocenter-notloggedin": "Belum masuk log",
+	"nanocenter-userpage": "Halaman {{GENDER:$1|pengguna}}",
+	"nanocenter-talkpage": "Halaman pembicaraan {{GENDER:$1|pengguna}}",
+	"nanocenter-pagelog": "Log halaman",
+	"nanocenter-more": "Lainnya",
+	"nanocenter-sitetools": "Peralatan wiki",
+	"nanocenter-pageactions": "Peralatan halaman",
+	"nanocenter-userpagetools": "Peralatan halaman pengguna",
+	"nanocenter-pagemisc": "Selengkapnya",
+	"nanocenter-namespaces": "Ruang nama",
+	"nanocenter-pagetools": "Tindakan halaman",
+	"nanocenter-languages": "Bahasa"
+}

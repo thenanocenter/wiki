@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"nanocenter-desc": "يو ټايملېس پوښۍ د وېنټر نمونې وروسته د برانډن حارث او WMFy بېلابېلو ډولونو لخوا سکښتل شوې.",
+	"nanocenter-search-placeholder": "د نژدې {{NUMBEROFARTICLES}} مخونو متن پلټل",
+	"nanocenter-loggedin": "ستاسې گڼون",
+	"nanocenter-anonymous": "ورکنومی",
+	"nanocenter-loggedinas": "د '''$1''' په توگه ورننوتئ",
+	"nanocenter-notloggedin": "غونډال کې نه ياست ننوتي",
+	"nanocenter-userpage": "{{GENDER:$1|کارن}} مخ",
+	"nanocenter-talkpage": "{{GENDER:$1|کارن}} خبرې اترې",
+	"nanocenter-pagelog": "د مخ يادښتونه",
+	"nanocenter-more": "نور",
+	"nanocenter-sitetools": "ويکي اوزارونه",
+	"nanocenter-pageactions": "د مخ اوزارونه",
+	"nanocenter-userpagetools": "د کارن مخ اوزارونه",
+	"nanocenter-pagemisc": "نور",
+	"nanocenter-namespaces": "نومتشيالونه",
+	"nanocenter-pagetools": "د مخ چارې",
+	"nanocenter-languages": "ژبې"
+}

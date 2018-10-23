@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"MojoMann"
+		]
+	},
+	"skinname-nanocenter": "מחוץ לזמן",
+	"nanocenter-desc": "עיצוב \"מחוץ לזמן\", מבוסס על אבטיפוס \"חורף\" מאת ברנדון האריס, ועיצובים שונים של קרן ויקימדיה",
+	"nanocenter-search-placeholder": "חיפוש ב־{{NUMBEROFARTICLES}} דפים",
+	"nanocenter-loggedin": "החשבון שלך",
+	"nanocenter-anonymous": "אלמוני",
+	"nanocenter-loggedinas": "נכנסת לחשבון '''$1'''",
+	"nanocenter-notloggedin": "לא התחברת לחשבון",
+	"nanocenter-userpage": "דף {{GENDER:$1|משתמש|משתמשת}}",
+	"nanocenter-talkpage": "דף שיחת {{GENDER:$1|משתמש|משתמשת}}",
+	"nanocenter-pagelog": "יומני הדף",
+	"nanocenter-more": "עוד",
+	"nanocenter-sitetools": "כלי ויקי",
+	"nanocenter-pageactions": "כלי דף",
+	"nanocenter-userpagetools": "כלי דף משתמש",
+	"nanocenter-pagemisc": "עוד",
+	"nanocenter-namespaces": "מרחבי שם",
+	"nanocenter-pagetools": "פעולות דף",
+	"nanocenter-languages": "שפות",
+	"nanocenter.js": "/* כל הסקריפטים הנכתבים כאן ייטענו עבור מי שמשתמש בעיצוב \"מחוץ לזמן\" בלבד */"
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vrhnje",
+			"MaGa",
+			"Bugoslav"
+		]
+	},
+	"nanocenter-desc": "Bezvremenska tema oblikovana prema prototipu Brandona Harrisa, te različiti stilovi Zaklade Wikimedija",
+	"nanocenter-search-placeholder": "Pretražite približno {{NUMBEROFARTICLES}} {{PLURAL:{{NUMBEROFARTICLES}}|stranicu|stranice|stranica}}",
+	"nanocenter-loggedin": "Vaš račun",
+	"nanocenter-anonymous": "Anonimni",
+	"nanocenter-loggedinas": "Prijavljeni ste kao '''$1'''",
+	"nanocenter-notloggedin": "Niste prijavljeni",
+	"nanocenter-userpage": "Stranica {{GENDER:$1|suradnika|suradnice}}",
+	"nanocenter-talkpage": "Razgovor sa {{GENDER:$1|suradnikom|suradnicom}}",
+	"nanocenter-pagelog": "Evidencije stranice",
+	"nanocenter-more": "Više",
+	"nanocenter-sitetools": "Oruđe wikija",
+	"nanocenter-pageactions": "Oruđe stranice",
+	"nanocenter-userpagetools": "Alati suradničke stranice",
+	"nanocenter-pagemisc": "Više",
+	"nanocenter-namespaces": "Imenski prostori",
+	"nanocenter-pagetools": "Radnje na stranici",
+	"nanocenter-languages": "Jezici"
+}

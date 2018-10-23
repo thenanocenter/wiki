@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"skinname-nanocenter": "Безвременско",
+	"nanocenter-desc": "Безвременско руво по образ на прототипот „Зима“ на Брендон Харис и разни стилови на Фондацијата Викимедија.",
+	"nanocenter-search-placeholder": "Пребарување по околу {{NUMBEROFARTICLES}} страници",
+	"nanocenter-loggedin": "Вашата сметка",
+	"nanocenter-anonymous": "Анонимен",
+	"nanocenter-loggedinas": "Најавени сте како '''$1'''",
+	"nanocenter-notloggedin": "Не сте најавени",
+	"nanocenter-userpage": "{{GENDER:$1|Корисничка}} страница",
+	"nanocenter-talkpage": "{{GENDER:$1|Разговор}} со корисникот",
+	"nanocenter-pagelog": "Дневници на страницата",
+	"nanocenter-more": "Повеќе",
+	"nanocenter-sitetools": "Викиалатки",
+	"nanocenter-pageactions": "Алатки за страници",
+	"nanocenter-userpagetools": "Алатки за корисничката страница",
+	"nanocenter-pagemisc": "Повеќе",
+	"nanocenter-namespaces": "Именски простори",
+	"nanocenter-pagetools": "Дејства врз страници",
+	"nanocenter-languages": "Јазици",
+	"nanocenter.css": "/* Тука поставениот CSS се однесува на корисниците на рувото „Безвременско“ */",
+	"nanocenter.js": "/* Тука поставениот JavaScript ќе им се вчитува на корисниците што го користат рувото „Безвременско“ */"
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64",
+			"Kghbln"
+		]
+	},
+	"nanocenter-desc": "Stellt eine zeitlose und an Wikimedia erinnernde Benutzeroberfläche bereit",
+	"nanocenter-search-placeholder": "{{NUMBEROFARTICLES}} Seiten durchsuchen",
+	"nanocenter-loggedin": "Dein Benutzerkonto",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Angemeldet als '''$1'''",
+	"nanocenter-notloggedin": "Nicht angemeldet",
+	"nanocenter-userpage": "{{GENDER:$1|Benutzerseite}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Benutzerdiskussion}}",
+	"nanocenter-pagelog": "Seitenlogbücher",
+	"nanocenter-more": "Mehr",
+	"nanocenter-sitetools": "Wikiwerkzeuge",
+	"nanocenter-pageactions": "Seitenwerkzeuge",
+	"nanocenter-userpagetools": "Benutzerseitenwerkzeuge",
+	"nanocenter-pagemisc": "Mehr",
+	"nanocenter-namespaces": "Namensräume",
+	"nanocenter-pagetools": "Seitenaktionen",
+	"nanocenter-languages": "Sprachen",
+	"nanocenter.js": "/* JavaScript an dieser Stelle wird für Benutzer geladen, die die Benutzeroberfläche „Timeless“ verwenden */"
+}

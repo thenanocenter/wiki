@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"nanocenter-search-placeholder": "लगभल {{NUMBEROFARTICLES}} पन्नाअन खोजऽ",
+	"nanocenter-loggedin": "तमरो खाता",
+	"nanocenter-anonymous": "अनाम",
+	"nanocenter-loggedinas": "'''$1'''का रूपमी लगइन",
+	"nanocenter-notloggedin": "प्रवेश (लग ईन) नगर्याको",
+	"nanocenter-userpage": "{{GENDER:$1|प्रयोगकर्ता}} पन्ना",
+	"nanocenter-talkpage": "{{GENDER:$1|प्रयोगकर्ता}} कुरणिकानी",
+	"nanocenter-pagelog": "पेज इतिहास",
+	"nanocenter-more": "झिक्क",
+	"nanocenter-sitetools": "विकि औजारअन",
+	"nanocenter-pageactions": "पन्ना औजारअन",
+	"nanocenter-userpagetools": "प्रयोकर्तापन्ना औजारअन",
+	"nanocenter-pagemisc": "झिक्क",
+	"nanocenter-namespaces": "नामठौरअन",
+	"nanocenter-pagetools": "पन्ना क्रियाअन",
+	"nanocenter-languages": "भाषाअन"
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [ "Isarra" ]
+	},
+	"skinname-nanocenter": "Timeless",
+	"nanocenter-desc": "A nanocenter skin designed after the Winter prototype by Brandon Harris, and various styles by the Wikimedia Foundation",
+	"nanocenter-search-placeholder": "Search {{NUMBEROFARTICLES}} pages",
+	"nanocenter-loggedin": "Your account",
+	"nanocenter-anonymous": "Anonymous",
+	"nanocenter-loggedinas": "Logged in as '''$1'''",
+	"nanocenter-notloggedin": "Not logged in",
+	"nanocenter-userpage": "{{GENDER:$1|User}} page",
+	"nanocenter-talkpage": "{{GENDER:$1|User}} talk",
+	"nanocenter-pagelog": "Page logs",
+	"nanocenter-more": "More",
+	"nanocenter-sitetools": "Wiki tools",
+	"nanocenter-pageactions": "Page tools",
+	"nanocenter-userpagetools": "Userpage tools",
+	"nanocenter-pagemisc": "More",
+	"nanocenter-namespaces": "Namespaces",
+	"nanocenter-pagetools": "Page actions",
+	"nanocenter-languages": "Languages",
+	"nanocenter-sitetitle": "{{MediaWiki:Sitetitle}}",
+	"nanocenter.css": "/* CSS placed here will affect users of the Timeless skin */",
+	"nanocenter.js": "/* Any JavaScript here will be loaded for users using the Timeless skin */"
+}

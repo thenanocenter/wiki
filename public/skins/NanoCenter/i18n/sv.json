@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix",
+			"Lokal Profil",
+			"Fader",
+			"Jopparn"
+		]
+	},
+	"skinname-nanocenter": "Timeless",
+	"nanocenter-desc": "Ett tidlöst utseende designat efter prototypen Winter av Brandon Harris och diverse stilar av Wikimedia Foundation.",
+	"nanocenter-search-placeholder": "Sök på {{NUMBEROFARTICLES}} sidor",
+	"nanocenter-loggedin": "Ditt konto",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Inloggad som '''$1'''",
+	"nanocenter-notloggedin": "Inte inloggad",
+	"nanocenter-userpage": "{{GENDER:$1|Användarsida}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Användardiskussion}}",
+	"nanocenter-pagelog": "Sidloggar",
+	"nanocenter-more": "Mer",
+	"nanocenter-sitetools": "Wikiverktyg",
+	"nanocenter-pageactions": "Sidverktyg",
+	"nanocenter-userpagetools": "Verktyg för användarsidan",
+	"nanocenter-pagemisc": "Mer",
+	"nanocenter-namespaces": "Namnrymder",
+	"nanocenter-pagetools": "Sidåtgärder",
+	"nanocenter-languages": "Språk",
+	"nanocenter.css": "/* CSS som skrivs här kommer att påverka alla användare av utseendet Timeless */",
+	"nanocenter.js": "/* JavaScript här kommer att laddas för dem som använder utseendet Timeless */"
+}

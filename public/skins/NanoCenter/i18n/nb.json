@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"skinname-nanocenter": "Timeless",
+	"nanocenter-desc": "Ei tidløs drakt designet etter Winter-prototypen av Brandon Harris, og diverse andre stiler av Wikimedia Foundation.",
+	"nanocenter-search-placeholder": "Søk i {{NUMBEROFARTICLES}} sider",
+	"nanocenter-loggedin": "Din konto",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "Logget inn som '''$1'''",
+	"nanocenter-notloggedin": "Ikke innlogget",
+	"nanocenter-userpage": "{{GENDER:$1|Brukerside}}",
+	"nanocenter-talkpage": "{{GENDER:$1|Brukerdiskusjon}}",
+	"nanocenter-pagelog": "Sidelogger",
+	"nanocenter-more": "Mer",
+	"nanocenter-sitetools": "Wikiverktøy",
+	"nanocenter-pageactions": "Sideverktøy",
+	"nanocenter-userpagetools": "Brukersideverktøy",
+	"nanocenter-pagemisc": "Mer",
+	"nanocenter-namespaces": "Navnerom",
+	"nanocenter-pagetools": "Sidehandlinger",
+	"nanocenter-languages": "Språk",
+	"nanocenter.js": "/* Javascript i denne fila vil gjelde for brukere av drakta Timeless */"
+}

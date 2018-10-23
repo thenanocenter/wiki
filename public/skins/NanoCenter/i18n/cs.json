@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"DaBler",
+			"LTM3",
+			"Dvorapa",
+			"Mormegil",
+			"Matěj Suchánek"
+		]
+	},
+	"nanocenter-desc": "Nadčasový vzhled navržený podle prototypu Winter, vytvořeného Brandonem Harrisem, a dalších vzhledů vytvořených nadací Wikimedia",
+	"nanocenter-search-placeholder": "Prohledat {{NUMBEROFARTICLES}} stránek",
+	"nanocenter-loggedin": "Váš účet",
+	"nanocenter-anonymous": "Anonym",
+	"nanocenter-loggedinas": "{{GENDER:$1|Přihlášen|Přihlášena}} jako '''$1'''",
+	"nanocenter-notloggedin": "Nepřihlášen(a)",
+	"nanocenter-userpage": "Stránka {{GENDER:$1|uživatele|uživatelky}}",
+	"nanocenter-talkpage": "Diskuze {{GENDER:$1|uživatele|uživatelky}}",
+	"nanocenter-pagelog": "Protokolovací záznamy",
+	"nanocenter-more": "Více",
+	"nanocenter-sitetools": "Wiki nástroje",
+	"nanocenter-pageactions": "Nástroje ke stránkám",
+	"nanocenter-userpagetools": "Uživatelské nástroje",
+	"nanocenter-pagemisc": "Více",
+	"nanocenter-namespaces": "Jmenné prostory",
+	"nanocenter-pagetools": "Možnosti stránky",
+	"nanocenter-languages": "Jazyky",
+	"nanocenter.js": "/* JavaScript pro uživatele používající vzhled „Timeless“ */"
+}

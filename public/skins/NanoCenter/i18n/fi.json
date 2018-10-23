@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"01miki10",
+			"Pyscowicz"
+		]
+	},
+	"nanocenter-desc": "Ajaton ulkoasu, joka on suunniteltu Brandon Harrisin Winter-prototyypin sekä useiden Wikimedia Foundationin tyylien mukaisesti.",
+	"nanocenter-search-placeholder": "Hae {{NUMBEROFARTICLES}} sivua",
+	"nanocenter-loggedin": "Käyttäjätunnuksesi",
+	"nanocenter-anonymous": "Anonyymi",
+	"nanocenter-loggedinas": "Kirjautunut käyttäjällä '''$1'''",
+	"nanocenter-notloggedin": "Et ole kirjautunut",
+	"nanocenter-userpage": "{{GENDER:$1|Käyttäjä}}sivu",
+	"nanocenter-talkpage": "Keskustelu {{GENDER:$1|käyttäjästä}}",
+	"nanocenter-pagelog": "Sivun lokit",
+	"nanocenter-more": "Lisää",
+	"nanocenter-sitetools": "Wiki-työkalut",
+	"nanocenter-pageactions": "Sivutyökalut",
+	"nanocenter-userpagetools": "Käyttäjäsivun työkalut",
+	"nanocenter-pagemisc": "Lisää",
+	"nanocenter-namespaces": "Nimiavaruudet",
+	"nanocenter-pagetools": "Sivun toiminnot",
+	"nanocenter-languages": "Kielet"
+}

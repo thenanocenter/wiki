@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Máté",
+			"Wolf Rex",
+			"Dj",
+			"Tacsipacsi"
+		]
+	},
+	"nanocenter-search-placeholder": "Mintegy {{NUMBEROFARTICLES}} lap keresése",
+	"nanocenter-loggedin": "Fiókod",
+	"nanocenter-anonymous": "Névtelen",
+	"nanocenter-loggedinas": "Bejelentkezve '''$1''' néven",
+	"nanocenter-notloggedin": "Nem vagy bejelentkezve",
+	"nanocenter-more": "Több",
+	"nanocenter-sitetools": "Wikieszközök",
+	"nanocenter-userpagetools": "Szerkesztőlapi eszközök",
+	"nanocenter-pagemisc": "Több",
+	"nanocenter-namespaces": "Névterek",
+	"nanocenter-pagetools": "Lapműveletek",
+	"nanocenter-languages": "Nyelvek"
+}

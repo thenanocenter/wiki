@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nguyên Lê",
+			"Minh Nguyen"
+		]
+	},
+	"skinname-nanocenter": "Vượt thời gian",
+	"nanocenter-desc": "Giao diện vượt thời gian phỏng theo mẫu Mùa đông của Brandon Harris và nhiều giao diện do Quỹ Wikimedia thiết kế.",
+	"nanocenter-search-placeholder": "Tìm trên vào khoảng {{NUMBEROFARTICLES}} trang",
+	"nanocenter-loggedin": "Tài khoản",
+	"nanocenter-anonymous": "Vô danh",
+	"nanocenter-loggedinas": "Đã đăng nhập là '''$1'''",
+	"nanocenter-notloggedin": "Chưa đăng nhập",
+	"nanocenter-userpage": "{{GENDER:$1}}Trang cá nhân",
+	"nanocenter-talkpage": "{{GENDER:$1}}Trang thảo luận thành viên",
+	"nanocenter-pagelog": "Nhật trình trang",
+	"nanocenter-more": "Thêm nữa",
+	"nanocenter-sitetools": "Công cụ cho wiki",
+	"nanocenter-pageactions": "Công cụ cho trang",
+	"nanocenter-userpagetools": "Công cụ cho người dùng",
+	"nanocenter-pagemisc": "Thêm nữa",
+	"nanocenter-namespaces": "Không gian tên",
+	"nanocenter-pagetools": "Tác vụ trang",
+	"nanocenter-languages": "Ngôn ngữ"
+}

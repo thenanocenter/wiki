@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Belkacem77"
+		]
+	},
+	"nanocenter-search-placeholder": "Nadi kra n {{NUMBEROFARTICLES}} n isebtar",
+	"nanocenter-loggedin": "Amiḍan-iw",
+	"nanocenter-anonymous": "Udrig",
+	"nanocenter-loggedinas": "Yeqqen s \"$1\"",
+	"nanocenter-notloggedin": "Ur yeqqin ara",
+	"nanocenter-userpage": "Asebter n {{GENDER:$1|useqdac}}",
+	"nanocenter-talkpage": "Asqerdec n {{GENDER:$1|useqdac}}",
+	"nanocenter-pagelog": "Iɣmisen n usebter",
+	"nanocenter-more": "Ugar",
+	"nanocenter-sitetools": "Ifecka Wiki",
+	"nanocenter-pageactions": "Ifecka n usebter",
+	"nanocenter-userpagetools": "Ifecka n usebter n useqdac",
+	"nanocenter-pagemisc": "Ugar",
+	"nanocenter-namespaces": "Tallunin n isemawen",
+	"nanocenter-pagetools": "Tigawin n usebter",
+	"nanocenter-languages": "Tutlayin"
+}
