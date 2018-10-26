@@ -34,7 +34,7 @@ class NanoCenterTemplate extends BaseTemplate {
 		$html .= Html::rawElement( 'div', [ 'id' => 'mw-header-container', 'class' => 'ts-container' ],
 			Html::rawElement( 'div', [ 'id' => 'mw-header', 'class' => 'ts-inner' ],
 				''.//$userLinks['html'] .
-                '<a id="p-banner" class="mw-wiki-title long" href="https://nanocenter.org">Nano Center Wiki</a>'.
+                '<div id="p-logo-text" class="mw-portlet"><a id="p-banner" class="mw-wiki-title long" href="https://nanocenter.org">Nano Center Wiki</a></div>'.
 				//$this->getLogo( 'p-logo-text', 'text' ) .
 				''.$topNavigationHTML//$this->getSearch()
 			) .
